@@ -1,4 +1,5 @@
 /// 
+// v2
 package mysql_cli
 
 import (
